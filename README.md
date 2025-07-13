@@ -11,17 +11,16 @@ Goal: Detect a user doing push-ups using a webcam and count the number of comple
 Technologies: Python, OpenCV, MediaPipe (or OpenPose), Numpy, optionally PyGame/Matplotlib for visualization.
 ---
 
-## 🧠 Features
+## Features
 
-✅ Real-time pose estimation  
-✅ Push-up counter based on elbow/shoulder angle  
-✅ Live status: “Up” / “Down”  
-✅ Works on standard webcam  
-✅ Easy to customize and extend  
+1) Real-time pose estimation  
+2) Push-up counter based on elbow/shoulder angle   Live status: “Up” / “Down”  
+3) Works on standard webcam  
+4) Easy to customize and extend  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - [Python](https://www.python.org/)
 - [MediaPipe](https://google.github.io/mediapipe/)
@@ -30,7 +29,7 @@ Technologies: Python, OpenCV, MediaPipe (or OpenPose), Numpy, optionally PyGame/
 
 ---
 
-## 🧰 Requirements
+## Requirements
 
 Install the dependencies using:
 
