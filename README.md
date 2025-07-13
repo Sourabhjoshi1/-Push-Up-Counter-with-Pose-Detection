@@ -5,6 +5,10 @@ This project uses **MediaPipe** and **OpenCV** to detect human poses through a w
 
 ![demo](assets/demo.gif)
 
+Project Overview
+Goal: Detect a user doing push-ups using a webcam and count the number of completed push-ups using pose estimation.
+
+Technologies: Python, OpenCV, MediaPipe (or OpenPose), Numpy, optionally PyGame/Matplotlib for visualization.
 ---
 
 ## 🧠 Features
